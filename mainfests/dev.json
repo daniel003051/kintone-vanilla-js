@@ -1,0 +1,15 @@
+{
+  "scope": "ALL",
+  "desktop": {
+    "js": [
+      "https://localhost:3000/dist/app.js"
+    ],
+    "css": []
+  },
+  "mobile": {
+    "js": [
+      "https://localhost:3000/dist/app.js"
+    ],
+    "css": []
+  }
+}
